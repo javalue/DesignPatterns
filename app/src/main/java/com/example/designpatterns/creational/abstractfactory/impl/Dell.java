@@ -1,6 +1,5 @@
 package com.example.designpatterns.creational.abstractfactory.impl;
 
-import android.util.Log;
 import com.example.designpatterns.creational.abstractfactory.inter.Component;
 
 /**
